@@ -23,19 +23,46 @@ svg = SVGDrawing(
         size = (str(width*pixel_width)+"px", str(height*pixel_height)+"px")
         )
 
+def cut_if_no_neighbour(x,y):
+    global pixels
+    if pixels[x,y] == black:
+        return "M "
+    return "L "
+
 for y in range(height):
     for x in range(width):
         if pixels[x,y] == black:
-            svg.add(svg.rect(
-                            insert = (x*pixel_width, y*pixel_height),
-                            size = (str(pixel_width)+"px", str(pixel_height)+"px"),
-                            stroke_width = "0.1mm",
-                            stroke = "red",
-                            fill = "none")
-                            )
+            x1 = x*pixel_width
+            y1 = y*pixel_height
+            x2 = x1+pixel_width
+            y2 = y1+pixel_height
+
+            path = "M {0} {1} ".format(x1, y1)
+            path += cut_if_no_neighbour(x-1,y) + "{0} {1} ".format(x1, y2) 
+            path += cut_if_no_neighbour(x,y+1) + "{0} {1} ".format(x2, y2) 
+            path += cut_if_no_neighbour(x+1,y) + "{0} {1} ".format(x2, y1)
+            path += cut_if_no_neighbour(x,y-1) + "{0} {1} ".format(x1, y1)
+
+            svg.add(
+                svg.path(d=path,
+                        fill = "none", 
+                        stroke = 'red',
+                        stroke_width = "0.1mm"
+                        )
+                )
+
             print "X",
         else:
             print " ",
     print ""
 
 svg.save()
+
+# add line wraps, quick and dirty
+f = open(outname,'r')
+content = f.read()
+f.close()
+content = content.replace('>', '>\n')
+f = open(outname, 'w')
+f.write(content)
+f.close()
