@@ -23,11 +23,20 @@ svg = SVGDrawing(
         size = (str(width*pixel_width)+"px", str(height*pixel_height)+"px")
         )
 
-def cut_if_no_neighbour(x,y):
+def cut_if_no_neighbour(x,y, nx,ny, path):
     global pixels
-    if pixels[x,y] == black:
-        return "M "
-    return "L "
+    global svg
+
+    if pixels[nx,ny] == black:
+        return
+
+    svg.add(
+        svg.path(d = path,
+                fill = "none", 
+                stroke = 'red',
+                stroke_width = "0.1mm"
+                )
+        )
 
 for y in range(height):
     for x in range(width):
@@ -37,19 +46,10 @@ for y in range(height):
             x2 = x1+pixel_width
             y2 = y1+pixel_height
 
-            path = "M {0} {1} ".format(x1, y1)
-            path += cut_if_no_neighbour(x-1,y) + "{0} {1} ".format(x1, y2) 
-            path += cut_if_no_neighbour(x,y+1) + "{0} {1} ".format(x2, y2) 
-            path += cut_if_no_neighbour(x+1,y) + "{0} {1} ".format(x2, y1)
-            path += cut_if_no_neighbour(x,y-1) + "{0} {1} ".format(x1, y1)
-
-            svg.add(
-                svg.path(d=path,
-                        fill = "none", 
-                        stroke = 'red',
-                        stroke_width = "0.1mm"
-                        )
-                )
+            cut_if_no_neighbour(x,y, x-1,y, "M {0} {1} L {2} {3}".format(x1, y1, x1, y2)) 
+            cut_if_no_neighbour(x,y, x,y+1, "M {0} {1} L {2} {3}".format(x1, y2, x2, y2))
+            cut_if_no_neighbour(x,y, x+1,y, "M {0} {1} L {2} {3}".format(x2, y2, x2, y1))
+            cut_if_no_neighbour(x,y, x,y-1, "M {0} {1} L {2} {3}".format(x2, y1, x1, y1))
 
             print "X",
         else:

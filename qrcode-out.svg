@@ -2,236 +2,478 @@
 
 <svg baseProfile="full" height="250px" version="1.1" width="250px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs />
-<path d="M 20 20 L 20 30 M 30 30 M 30 20 L 20 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 20 M 30 30 L 40 30 M 40 20 L 30 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 20 M 40 30 L 50 30 M 50 20 L 40 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 20 M 50 30 L 60 30 M 60 20 L 50 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 20 M 60 30 L 70 30 M 70 20 L 60 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 20 M 70 30 L 80 30 M 80 20 L 70 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 20 M 80 30 M 90 30 L 90 20 L 80 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 20 L 110 30 M 120 30 L 120 20 L 110 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 20 L 140 30 L 150 30 L 150 20 L 140 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 20 L 160 30 M 170 30 M 170 20 L 160 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 20 M 170 30 L 180 30 M 180 20 L 170 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 20 M 180 30 L 190 30 M 190 20 L 180 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 20 M 190 30 L 200 30 M 200 20 L 190 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 20 M 200 30 L 210 30 M 210 20 L 200 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 20 M 210 30 L 220 30 M 220 20 L 210 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 20 M 220 30 M 230 30 L 230 20 L 220 20 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 30 L 20 40 M 30 40 L 30 30 M 20 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 30 L 80 40 M 90 40 L 90 30 M 80 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 30 L 100 40 M 110 40 M 110 30 L 100 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 30 M 110 40 M 120 40 L 120 30 M 110 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 30 L 130 40 L 140 40 L 140 30 L 130 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 30 L 160 40 M 170 40 L 170 30 M 160 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 30 L 220 40 M 230 40 L 230 30 M 220 30 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 40 L 20 50 M 30 50 L 30 40 M 20 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 40 L 40 50 M 50 50 M 50 40 L 40 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 40 M 50 50 M 60 50 M 60 40 L 50 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 40 M 60 50 M 70 50 L 70 40 L 60 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 40 L 80 50 M 90 50 L 90 40 M 80 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 40 L 100 50 L 110 50 M 110 40 M 100 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 40 M 110 50 M 120 50 L 120 40 M 110 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 40 L 140 50 L 150 50 L 150 40 L 140 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 40 L 160 50 M 170 50 L 170 40 M 160 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 40 L 180 50 M 190 50 M 190 40 L 180 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 40 M 190 50 M 200 50 M 200 40 L 190 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 40 M 200 50 M 210 50 L 210 40 L 200 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 40 L 220 50 M 230 50 L 230 40 M 220 40 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 50 L 20 60 M 30 60 L 30 50 M 20 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 50 L 40 60 M 50 60 M 50 50 M 40 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 50 M 50 60 M 60 60 M 60 50 M 50 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 50 M 60 60 M 70 60 L 70 50 M 60 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 50 L 80 60 M 90 60 L 90 50 M 80 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 50 L 110 60 L 120 60 L 120 50 M 110 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 50 L 160 60 M 170 60 L 170 50 M 160 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 50 L 180 60 M 190 60 M 190 50 M 180 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 50 M 190 60 M 200 60 M 200 50 M 190 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 50 M 200 60 M 210 60 L 210 50 M 200 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 50 L 220 60 M 230 60 L 230 50 M 220 50 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 60 L 20 70 M 30 70 L 30 60 M 20 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 60 L 40 70 L 50 70 M 50 60 M 40 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 60 M 50 70 L 60 70 M 60 60 M 50 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 60 M 60 70 L 70 70 L 70 60 M 60 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 60 L 80 70 M 90 70 L 90 60 M 80 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 60 L 100 70 M 110 70 L 110 60 L 100 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 60 L 160 70 M 170 70 L 170 60 M 160 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 60 L 180 70 L 190 70 M 190 60 M 180 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 60 M 190 70 L 200 70 M 200 60 M 190 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 60 M 200 70 L 210 70 L 210 60 M 200 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 60 L 220 70 M 230 70 L 230 60 M 220 60 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 70 L 20 80 M 30 80 L 30 70 M 20 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 70 L 80 80 M 90 80 L 90 70 M 80 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 70 L 100 80 M 110 80 L 110 70 M 100 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 70 L 130 80 L 140 80 L 140 70 L 130 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 70 L 160 80 M 170 80 L 170 70 M 160 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 70 L 220 80 M 230 80 L 230 70 M 220 70 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 80 L 20 90 L 30 90 M 30 80 M 20 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 80 M 30 90 L 40 90 M 40 80 L 30 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 80 M 40 90 L 50 90 M 50 80 L 40 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 80 M 50 90 L 60 90 M 60 80 L 50 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 80 M 60 90 L 70 90 M 70 80 L 60 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 80 M 70 90 L 80 90 M 80 80 L 70 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 80 M 80 90 L 90 90 L 90 80 M 80 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 80 L 100 90 M 110 90 L 110 80 M 100 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 80 L 120 90 M 130 90 L 130 80 L 120 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 80 L 140 90 L 150 90 L 150 80 L 140 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 80 L 160 90 L 170 90 M 170 80 M 160 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 80 M 170 90 L 180 90 M 180 80 L 170 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 80 M 180 90 L 190 90 M 190 80 L 180 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 80 M 190 90 L 200 90 M 200 80 L 190 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 80 M 200 90 L 210 90 M 210 80 L 200 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 80 M 210 90 L 220 90 M 220 80 L 210 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 80 M 220 90 L 230 90 L 230 80 M 220 80 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 90 L 100 100 L 110 100 M 110 90 M 100 90 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 90 M 110 100 M 120 100 M 120 90 L 110 90 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 90 M 120 100 M 130 100 M 130 90 M 120 90 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 90 M 130 100 L 140 100 L 140 90 L 130 90 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 100 L 20 110 M 30 110 M 30 100 L 20 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 100 M 30 110 L 40 110 L 40 100 L 30 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 100 L 50 110 L 60 110 L 60 100 L 50 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 100 L 80 110 L 90 110 M 90 100 L 80 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 90 100 M 90 110 M 100 110 L 100 100 L 90 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 100 L 110 110 L 120 110 M 120 100 M 110 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 100 M 120 110 L 130 110 L 130 100 M 120 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 100 L 140 110 M 150 110 L 150 100 L 140 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 100 L 160 110 L 170 110 M 170 100 L 160 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 100 M 170 110 M 180 110 M 180 100 L 170 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 100 M 180 110 M 190 110 L 190 100 L 180 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 100 L 200 110 M 210 110 M 210 100 L 200 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 100 M 210 110 M 220 110 L 220 100 L 210 100 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 110 L 20 120 M 30 120 L 30 110 M 20 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 110 L 40 120 L 50 120 L 50 110 L 40 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 110 L 60 120 M 70 120 L 70 110 L 60 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 90 110 L 90 120 L 100 120 M 100 110 M 90 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 110 M 100 120 M 110 120 L 110 110 L 100 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 110 L 130 120 M 140 120 M 140 110 L 130 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 110 M 140 120 M 150 120 L 150 110 M 140 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 110 L 170 120 M 180 120 M 180 110 M 170 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 110 M 180 120 L 190 120 L 190 110 M 180 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 110 L 200 120 L 210 120 M 210 110 M 200 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 110 M 210 120 L 220 120 M 220 110 M 210 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 110 M 220 120 M 230 120 L 230 110 L 220 110 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 120 L 20 130 M 30 130 M 30 120 M 20 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 120 M 30 130 L 40 130 L 40 120 L 30 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 120 L 60 130 M 70 130 M 70 120 M 60 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 120 M 70 130 L 80 130 M 80 120 L 70 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 120 M 80 130 L 90 130 L 90 120 L 80 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 120 L 100 130 L 110 130 M 110 120 M 100 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 120 M 110 130 M 120 130 L 120 120 L 110 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 120 L 130 130 L 140 130 M 140 120 M 130 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 120 M 140 130 M 150 130 L 150 120 M 140 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 120 L 160 130 M 170 130 M 170 120 L 160 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 120 M 170 130 M 180 130 L 180 120 M 170 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 120 L 220 130 M 230 130 L 230 120 M 220 120 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 130 L 20 140 L 30 140 L 30 130 M 20 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 130 L 40 140 M 50 140 M 50 130 L 40 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 130 M 50 140 M 60 140 M 60 130 L 50 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 130 M 60 140 L 70 140 L 70 130 M 60 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 90 130 L 90 140 L 100 140 L 100 130 L 90 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 130 L 110 140 M 120 140 M 120 130 M 110 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 130 M 120 140 L 130 140 L 130 130 L 120 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 130 L 140 140 L 150 140 L 150 130 M 140 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 130 L 160 140 L 170 140 M 170 130 M 160 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 130 M 170 140 L 180 140 M 180 130 M 170 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 130 M 180 140 M 190 140 M 190 130 L 180 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 130 M 190 140 M 200 140 L 200 130 L 190 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 130 L 220 140 L 230 140 L 230 130 M 220 130 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 140 L 30 150 L 40 150 M 40 140 L 30 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 140 M 40 150 L 50 150 M 50 140 M 40 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 140 M 50 150 L 60 150 L 60 140 M 50 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 140 L 70 150 L 80 150 M 80 140 L 70 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 140 M 80 150 L 90 150 L 90 140 L 80 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 140 L 100 150 M 110 150 M 110 140 L 100 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 140 M 110 150 M 120 150 L 120 140 M 110 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 140 L 130 150 M 140 150 L 140 140 L 130 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 150 140 L 150 150 L 160 150 L 160 140 L 150 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 140 L 180 150 L 190 150 M 190 140 M 180 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 140 M 190 150 L 200 150 L 200 140 M 190 140 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 150 L 100 160 M 110 160 M 110 150 M 100 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 150 M 110 160 M 120 160 M 120 150 M 110 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 150 M 120 160 L 130 160 M 130 150 L 120 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 150 M 130 160 M 140 160 M 140 150 M 130 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 150 M 140 160 M 150 160 L 150 150 L 140 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 150 L 170 160 M 180 160 L 180 150 L 170 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 150 L 220 160 L 230 160 L 230 150 L 220 150 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 160 L 20 170 M 30 170 M 30 160 L 20 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 160 M 30 170 L 40 170 M 40 160 L 30 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 160 M 40 170 L 50 170 M 50 160 L 40 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 160 M 50 170 L 60 170 M 60 160 L 50 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 160 M 60 170 L 70 170 M 70 160 L 60 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 160 M 70 170 L 80 170 M 80 160 L 70 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 160 M 80 170 M 90 170 L 90 160 L 80 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 160 L 100 170 L 110 170 M 110 160 M 100 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 160 M 110 170 L 120 170 L 120 160 M 110 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 160 L 130 170 M 140 170 M 140 160 M 130 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 160 M 140 170 M 150 170 L 150 160 M 140 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 160 L 160 170 L 170 170 M 170 160 L 160 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 160 M 170 170 L 180 170 M 180 160 M 170 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 160 M 180 170 M 190 170 M 190 160 L 180 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 160 M 190 170 L 200 170 M 200 160 L 190 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 160 M 200 170 L 210 170 M 210 160 L 200 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 160 M 210 170 L 220 170 L 220 160 L 210 160 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 170 L 20 180 M 30 180 L 30 170 M 20 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 170 L 80 180 M 90 180 L 90 170 M 80 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 170 L 130 180 M 140 180 M 140 170 M 130 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 170 M 140 180 L 150 180 L 150 170 M 140 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 170 L 180 180 M 190 180 L 190 170 M 180 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 170 L 220 180 L 230 180 L 230 170 L 220 170 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 180 L 20 190 M 30 190 L 30 180 M 20 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 180 L 40 190 M 50 190 M 50 180 L 40 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 180 M 50 190 M 60 190 M 60 180 L 50 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 180 M 60 190 M 70 190 L 70 180 L 60 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 180 L 80 190 M 90 190 L 90 180 M 80 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 180 L 130 190 L 140 190 L 140 180 M 130 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 150 180 L 150 190 L 160 190 L 160 180 L 150 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 180 L 170 190 M 180 190 M 180 180 L 170 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 180 M 180 190 M 190 190 L 190 180 M 180 180 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 190 L 20 200 M 30 200 L 30 190 M 20 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 190 L 40 200 M 50 200 M 50 190 M 40 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 190 M 50 200 M 60 200 M 60 190 M 50 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 190 M 60 200 M 70 200 L 70 190 M 60 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 190 L 80 200 M 90 200 L 90 190 M 80 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 190 L 100 200 L 110 200 M 110 190 L 100 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 190 M 110 200 M 120 200 L 120 190 L 110 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 190 L 140 200 M 150 200 L 150 190 L 140 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 190 L 170 200 M 180 200 M 180 190 M 170 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 190 M 180 200 M 190 200 M 190 190 M 180 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 190 M 190 200 M 200 200 L 200 190 L 190 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 190 L 210 200 L 220 200 M 220 190 L 210 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 190 M 220 200 M 230 200 L 230 190 L 220 190 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 200 L 20 210 M 30 210 L 30 200 M 20 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 200 L 40 210 L 50 210 M 50 200 M 40 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 200 M 50 210 L 60 210 M 60 200 M 50 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 200 M 60 210 L 70 210 L 70 200 M 60 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 200 L 80 210 M 90 210 L 90 200 M 80 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 200 L 110 210 M 120 210 M 120 200 M 110 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 200 M 120 210 L 130 210 M 130 200 L 120 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 200 M 130 210 L 140 210 M 140 200 L 130 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 140 200 M 140 210 L 150 210 L 150 200 M 140 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 200 L 160 210 L 170 210 M 170 200 L 160 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 200 M 170 210 M 180 210 M 180 200 M 170 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 200 M 180 210 L 190 210 M 190 200 M 180 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 190 200 M 190 210 L 200 210 M 200 200 M 190 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 200 200 M 200 210 L 210 210 L 210 200 L 200 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 220 200 L 220 210 L 230 210 L 230 200 M 220 200 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 210 L 20 220 M 30 220 L 30 210 M 20 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 210 L 80 220 M 90 220 L 90 210 M 80 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 210 L 100 220 M 110 220 M 110 210 L 100 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 110 210 M 110 220 L 120 220 L 120 210 M 110 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 150 210 L 150 220 L 160 220 L 160 210 L 150 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 170 210 L 170 220 L 180 220 L 180 210 M 170 210 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 20 220 L 20 230 L 30 230 M 30 220 M 20 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 30 220 M 30 230 L 40 230 M 40 220 L 30 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 40 220 M 40 230 L 50 230 M 50 220 L 40 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 50 220 M 50 230 L 60 230 M 60 220 L 50 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 60 220 M 60 230 L 70 230 M 70 220 L 60 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 70 220 M 70 230 L 80 230 M 80 220 L 70 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 80 220 M 80 230 L 90 230 L 90 220 M 80 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 100 220 L 100 230 L 110 230 L 110 220 M 100 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 120 220 L 120 230 L 130 230 M 130 220 L 120 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 130 220 M 130 230 L 140 230 L 140 220 L 130 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 160 220 L 160 230 L 170 230 L 170 220 L 160 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 180 220 L 180 230 L 190 230 L 190 220 L 180 220 " fill="none" stroke="red" stroke-width="0.1mm" />
-<path d="M 210 220 L 210 230 L 220 230 L 220 220 L 210 220 " fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 20 L 20 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 20 L 20 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 30 L 40 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 20 L 30 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 30 L 50 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 20 L 40 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 30 L 60 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 20 L 50 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 30 L 70 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 20 L 60 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 30 L 80 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 20 L 70 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 30 L 90 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 20 L 80 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 20 L 110 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 30 L 120 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 20 L 110 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 20 L 140 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 30 L 150 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 30 L 150 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 20 L 140 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 20 L 160 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 20 L 160 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 30 L 180 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 20 L 170 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 30 L 190 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 20 L 180 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 30 L 200 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 20 L 190 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 30 L 210 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 20 L 200 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 30 L 220 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 20 L 210 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 30 L 230 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 20 L 220 20" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 30 L 20 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 40 L 30 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 30 L 80 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 40 L 90 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 30 L 100 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 30 L 100 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 40 L 120 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 30 L 130 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 40 L 140 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 40 L 140 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 30 L 130 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 30 L 160 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 40 L 170 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 30 L 220 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 40 L 230 30" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 40 L 20 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 50 L 30 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 40 L 40 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 40 L 40 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 40 L 50 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 50 L 70 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 40 L 60 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 40 L 80 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 50 L 90 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 40 L 100 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 50 L 110 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 50 L 120 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 40 L 140 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 50 L 150 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 50 L 150 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 40 L 140 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 40 L 160 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 50 L 170 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 40 L 180 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 40 L 180 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 40 L 190 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 50 L 210 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 40 L 200 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 40 L 220 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 50 L 230 40" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 50 L 20 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 60 L 30 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 50 L 40 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 60 L 70 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 50 L 80 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 60 L 90 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 50 L 110 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 60 L 120 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 60 L 120 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 50 L 160 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 60 L 170 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 50 L 180 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 60 L 210 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 50 L 220 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 60 L 230 50" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 60 L 20 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 70 L 30 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 60 L 40 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 70 L 50 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 70 L 60 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 70 L 70 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 70 L 70 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 60 L 80 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 70 L 90 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 60 L 100 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 70 L 110 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 60 L 100 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 60 L 160 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 70 L 170 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 60 L 180 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 70 L 190 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 70 L 200 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 70 L 210 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 70 L 210 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 60 L 220 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 70 L 230 60" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 70 L 20 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 80 L 30 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 70 L 80 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 80 L 90 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 70 L 100 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 80 L 110 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 70 L 130 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 80 L 140 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 80 L 140 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 70 L 130 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 70 L 160 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 80 L 170 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 70 L 220 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 80 L 230 70" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 80 L 20 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 90 L 30 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 90 L 40 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 80 L 30 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 90 L 50 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 80 L 40 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 90 L 60 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 80 L 50 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 90 L 70 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 80 L 60 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 90 L 80 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 80 L 70 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 90 L 90 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 90 L 90 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 80 L 100 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 90 L 110 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 80 L 120 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 90 L 130 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 80 L 120 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 80 L 140 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 90 L 150 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 90 L 150 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 80 L 140 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 80 L 160 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 90 L 170 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 90 L 180 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 80 L 170 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 90 L 190 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 80 L 180 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 90 L 200 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 80 L 190 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 90 L 210 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 80 L 200 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 90 L 220 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 80 L 210 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 90 L 230 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 90 L 230 80" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 90 L 100 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 100 L 110 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 90 L 110 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 100 L 140 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 100 L 140 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 90 L 130 90" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 100 L 20 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 100 L 20 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 110 L 40 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 110 L 40 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 100 L 30 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 100 L 50 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 110 L 60 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 110 L 60 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 100 L 50 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 100 L 80 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 110 L 90 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 100 L 80 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 110 L 100 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 100 L 90 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 100 L 110 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 110 L 120 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 110 L 130 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 110 L 130 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 100 L 140 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 110 L 150 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 100 L 140 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 100 L 160 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 110 L 170 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 100 L 160 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 100 L 170 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 110 L 190 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 100 L 180 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 100 L 200 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 100 L 200 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 110 L 220 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 100 L 210 100" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 110 L 20 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 120 L 30 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 110 L 40 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 120 L 50 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 120 L 50 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 110 L 40 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 110 L 60 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 120 L 70 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 110 L 60 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 110 L 90 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 120 L 100 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 120 L 110 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 110 L 100 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 110 L 130 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 110 L 130 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 120 L 150 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 110 L 170 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 120 L 190 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 120 L 190 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 110 L 200 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 120 L 210 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 120 L 220 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 120 L 230 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 110 L 220 110" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 120 L 20 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 130 L 40 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 130 L 40 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 120 L 30 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 120 L 60 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 130 L 80 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 120 L 70 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 130 L 90 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 130 L 90 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 120 L 80 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 120 L 100 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 130 L 110 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 130 L 120 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 120 L 110 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 120 L 130 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 130 L 140 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 130 L 150 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 120 L 160 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 120 L 160 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 130 L 180 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 120 L 220 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 130 L 230 120" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 130 L 20 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 140 L 30 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 140 L 30 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 130 L 40 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 130 L 40 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 130 L 50 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 140 L 70 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 140 L 70 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 130 L 90 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 140 L 100 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 140 L 100 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 130 L 90 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 130 L 110 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 140 L 130 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 140 L 130 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 130 L 120 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 130 L 140 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 140 L 150 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 140 L 150 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 130 L 160 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 140 L 170 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 140 L 180 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 130 L 180 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 140 L 200 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 130 L 190 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 130 L 220 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 140 L 230 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 140 L 230 130" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 140 L 30 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 150 L 40 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 140 L 30 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 150 L 50 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 150 L 60 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 150 L 60 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 140 L 70 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 150 L 80 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 140 L 70 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 150 L 90 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 150 L 90 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 140 L 80 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 140 L 100 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 140 L 100 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 150 L 120 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 140 L 130 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 150 L 140 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 140 L 130 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 140 L 150 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 150 L 160 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 150 L 160 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 140 L 150 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 140 L 180 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 150 L 190 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 150 L 200 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 150 L 200 140" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 150 L 100 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 160 L 130 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 150 L 120 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 160 L 150 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 150 L 140 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 150 L 170 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 160 L 180 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 150 L 170 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 150 L 220 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 160 L 230 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 160 L 230 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 150 L 220 150" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 160 L 20 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 160 L 20 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 170 L 40 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 160 L 30 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 170 L 50 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 160 L 40 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 170 L 60 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 160 L 50 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 170 L 70 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 160 L 60 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 170 L 80 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 160 L 70 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 170 L 90 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 160 L 80 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 160 L 100 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 170 L 110 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 170 L 120 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 170 L 120 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 160 L 130 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 170 L 150 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 160 L 160 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 170 L 170 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 160 L 160 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 170 L 180 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 160 L 180 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 170 L 200 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 160 L 190 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 170 L 210 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 160 L 200 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 170 L 220 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 170 L 220 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 160 L 210 160" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 170 L 20 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 180 L 30 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 170 L 80 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 180 L 90 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 170 L 130 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 180 L 150 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 180 L 150 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 170 L 180 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 180 L 190 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 170 L 220 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 180 L 230 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 180 L 230 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 170 L 220 170" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 180 L 20 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 190 L 30 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 180 L 40 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 180 L 40 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 180 L 50 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 190 L 70 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 180 L 60 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 180 L 80 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 190 L 90 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 180 L 130 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 190 L 140 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 190 L 140 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 180 L 150 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 190 L 160 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 190 L 160 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 180 L 150 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 180 L 170 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 180 L 170 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 190 L 190 180" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 190 L 20 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 200 L 30 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 190 L 40 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 200 L 70 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 190 L 80 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 200 L 90 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 190 L 100 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 200 L 110 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 190 L 100 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 200 L 120 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 190 L 110 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 190 L 140 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 200 L 150 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 190 L 140 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 190 L 170 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 200 L 200 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 190 L 190 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 190 L 210 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 200 L 220 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 190 L 210 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 200 L 230 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 190 L 220 190" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 200 L 20 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 210 L 30 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 200 L 40 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 210 L 50 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 210 L 60 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 210 L 70 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 210 L 70 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 200 L 80 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 210 L 90 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 200 L 110 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 210 L 130 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 200 L 120 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 210 L 140 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 200 L 130 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 210 L 150 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 210 L 150 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 200 L 160 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 210 L 170 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 200 L 160 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 210 L 190 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 210 L 200 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 200 210 L 210 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 210 L 210 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 200 L 200 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 200 L 220 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 210 L 230 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 230 210 L 230 200" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 210 L 20 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 220 L 30 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 210 L 80 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 220 L 90 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 210 L 100 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 210 L 100 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 220 L 120 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 220 L 120 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 210 L 150 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 150 220 L 160 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 220 L 160 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 210 L 150 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 210 L 170 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 220 L 180 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 220 L 180 210" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 220 L 20 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 20 230 L 30 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 30 230 L 40 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 220 L 30 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 40 230 L 50 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 220 L 40 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 50 230 L 60 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 220 L 50 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 60 230 L 70 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 220 L 60 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 70 230 L 80 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 220 L 70 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 80 230 L 90 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 90 230 L 90 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 220 L 100 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 100 230 L 110 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 110 230 L 110 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 220 L 120 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 120 230 L 130 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 220 L 120 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 130 230 L 140 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 230 L 140 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 140 220 L 130 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 220 L 160 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 160 230 L 170 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 230 L 170 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 170 220 L 160 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 220 L 180 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 180 230 L 190 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 230 L 190 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 190 220 L 180 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 220 L 210 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 210 230 L 220 230" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 230 L 220 220" fill="none" stroke="red" stroke-width="0.1mm" />
+<path d="M 220 220 L 210 220" fill="none" stroke="red" stroke-width="0.1mm" />
 </svg>
