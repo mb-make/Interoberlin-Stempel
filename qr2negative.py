@@ -54,39 +54,16 @@ for y in range(height):
 
             print "X",
         else:
-            #svg.add(
-#                svg.rect(
- #                   insert = (x1, y1),
-  #                  size = (pixel_width, pixel_height),
-   #                 fill = "black", 
-    #                stroke = 'none'
-     #               )
-      #          )
-#            path  = "M {0} {1}".format(x1+1, y1+1)
-#            for i in range(pixel_height-2):
-#                path += "l {0} 0".format(pixel_width-2)
-#                path += "m 0 0.5"
-#                path += "l -{0} 0".format(pixel_width-2)
-#                path += "m 0 0.5"
-
-            for i in range(pixel_width):
+            # wegschneiden
+            for i in range(pixel_height):
                 svg.add(
                     svg.path(
-                        d="M {0} {1} l 0 {2}".format(x1+i, y1, pixel_height),
+                        d="M {0} {1} l {2} 0".format(x1, y1+i, pixel_width),
                         fill="none",
                         stroke="red",
                         stroke_width="0.1mm"
                     )
                 )
-
-#            svg.add(
-#                svg.path(
-#                    d=path,
-#                    fill = "none", 
-#                    stroke = 'red',
-#                    stroke_width = "0.1mm"
-#                    )
-#                )
 
             print " ",
     print ""
